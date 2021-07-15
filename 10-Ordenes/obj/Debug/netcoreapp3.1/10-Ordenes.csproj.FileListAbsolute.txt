@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.exe
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.deps.json
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.json
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfo.cs
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\User\Desktop\Lenguaje 2\Ejercicios\C-sharp\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.genruntimeconfig.cache
